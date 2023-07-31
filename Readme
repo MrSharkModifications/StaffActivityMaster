@@ -8,6 +8,8 @@ There some alteration to how its functions
 for expample 
 
 /dutystaff to go onduty as a staff 
-/bliptag for blips   
+/bliptag for blips    
 
-original script : https://github.com/JaredScar/PoliceEMSActivity
+To make this work you need to create a new folder called EmergencyBlips and add the cl_emergencyblips.lua and the sv_emergencyblips.lua into the folder 
+
+Original script : https://github.com/JaredScar/PoliceEMSActivity
